@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
-  Hi, my name is Felipe, i'm <strong>Front-End</strong> developer, passionate about technology and active in the development of projects for the Web. . Currently an enthusiast in functional programming in the Elixir language.
+  Hi, my name is Diogo, i'm <strong>Front-End</strong> developer, passionate about technology and active in the development of projects for the Web. . Currently an enthusiast in functional programming in the Elixir language.
 </p>
 
 <p align="left">
@@ -31,5 +31,5 @@
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=felipeolvr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeolvr&hide=TeX&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=diogo-guimaraes&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-guimaraes&hide=TeX&layout=compact&theme=dark)
