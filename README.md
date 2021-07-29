@@ -1,4 +1,22 @@
- 
+ <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
+  <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
+  Hi, my name is Diogo, i'm <strong>Front-End</strong> developer, passionate about technology and active in the development of projects for the Web. . Currently an enthusiast in functional programming in PHP and JavaScript language.
+</p>
+
+<p align="left">
+  💬 Skills: <br>
+      &nbsp;&nbsp; :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP and SQL.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>Vue.Js, Nuxt.Js, Quasar, Laravel and Bootstrap.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward:	Tools:   <strong>Git, Docker and AWS.</strong> <br>
+</p>
+
+<p align="left">
+    If you want to do a project with me or chat, don't hesitate to send me a message:⤵️
+</p>
+               
 <div> 
 
 ![Snake animation](https://github.com/diogo-guimaraes/diogo-guimaraes/blob/output/github-contribution-grid-snake.svg) 
