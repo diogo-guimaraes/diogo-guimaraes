@@ -1,4 +1,4 @@
- <img src="https://www.e-goi.com/br/lp/web-push-notificacoes/?aff=f6d6c81264&aff_extra=adsPush_br&utm_source=google&utm_medium=cpc&utm_campaign=push-br&gclid=Cj0KCQiAosmPBhCPARIsAHOen-OliK1hDGy_d-d1F8sqLHXHapZBt4O7ajtzS5JzfXjhQhwNvM8A8GcaAnL7EALw_wcB" min-width="400px" max-width="400px" width="400px" align="right">
+ <img src="https://blog.bsource.com.br/assets/img/programador.gifhttps://blog.bsource.com.br/assets/img/programador.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
