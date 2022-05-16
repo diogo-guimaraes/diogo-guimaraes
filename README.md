@@ -8,7 +8,7 @@
 <p align="left">
   💬 Skills: <br>
       &nbsp;&nbsp; :arrow_forward:	Technologies: <strong>HTML, CSS, JavaScript, PHP and SQL.</strong> <br>
-      &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>Vue.Js, Nuxt.Js, Quasar, Laravel and Bootstrap.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward: Frameworks: <strong>Vue.Js, Nuxt.Js, Quasar, Laravel, WordPress and Bootstrap.</strong> <br>
       &nbsp;&nbsp; :arrow_forward:	Database: <strong>MySQL and PostgreSQL.</strong> <br>
       &nbsp;&nbsp; :arrow_forward:	Tools:   <strong>Git, Docker and AWS.</strong> <br>
 </p>
